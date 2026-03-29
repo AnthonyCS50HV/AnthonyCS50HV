@@ -1,6 +1,6 @@
 # About Me
 
-I am an aspiring software engineer with a strong interest in Python, problem solving and building practical, real-world systems.
+I am an aspiring software engineer with a strong interest in Programming, problem solving and building practical, real-world systems.
 
 My interest in coding developed through a curiosity for how systems work and how problems can be broken down into logical steps. I enjoy building solutions, improving my understanding of programming concepts, and continuously developing my technical skills through hands-on projects.
 
