@@ -1,6 +1,6 @@
 # About Me
 
-I am an aspiring software developer with a strong interest in Python, problem solving and building practical, real-world projects.
+I am an aspiring software engineer with a strong interest in Python, problem solving and building practical, real-world systems.
 
 My interest in coding developed through a curiosity for how systems work and how problems can be broken down into logical steps. I enjoy building solutions, improving my understanding of programming concepts, and continuously developing my technical skills through hands-on projects.
 
@@ -8,7 +8,7 @@ I take a structured and disciplined approach to learning, focusing on consistenc
 
 ## Athletic Background
 
-Alongside my journey in software development, I have a strong background in competitive sport.
+Alongside my journey in software engineering, I have a strong background in competitive sport.
 
 - Leicester Riders Tour MVP (2019)  
 - Academy Basketball League Champion – Dagenham Park (2021)  
